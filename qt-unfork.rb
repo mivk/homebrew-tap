@@ -1,4 +1,4 @@
-class QTunfork < Formula
+class QtUnfork < Formula
   desc "Flatten old Quicktime movies which use a separate resource fork for the moov atom"
   homepage "https://github.com/mivk/qt-unfork"
   url "https://github.com/mivk/qt-unfork/archive/v0.0.1.tar.gz"
