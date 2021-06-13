@@ -1,0 +1,2 @@
+- README
+- bcalc: update + install man page
