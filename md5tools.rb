@@ -1,4 +1,4 @@
-class MD5tools < Formula
+class Md5tools < Formula
   desc "Tools for md5 checksums files"
   homepage "https://github.com/mivk/md5tools"
   head "https://github.com/mivk/md5tools"
