@@ -1,7 +1,7 @@
 class Md5tools < Formula
   desc "Tools for md5 checksums files"
   homepage "https://github.com/mivk/md5tools"
-  head "https://github.com/mivk/md5tools.git"
+  head "https://github.com/mivk/md5tools.git", branch: "main"
   #version "0.1.9"
 
   def install
