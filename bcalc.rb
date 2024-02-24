@@ -1,9 +1,9 @@
 class Bcalc < Formula
   desc "Bitrate-speed-size calculator"
   homepage "https://github.com/mivk/bcalc"
-  url "https://github.com/mivk/bcalc/archive/v0.32.tar.gz"
-  version "0.32"
-  sha256 "ea958c65ad9798442faeddcc41db9bf94d1c9728ba64e2fe9fcc28d238ae6beb"
+  url "https://github.com/mivk/bcalc/archive/refs/tags/v.0.34.1.tar.gz"
+  version "0.34.1"
+  sha256 "62cbfd91059953ebfc43a96d126987f1a92d1bf3822ff43103ad8508cd5fea90"
 
   def install
     bin.install "bcalc"
